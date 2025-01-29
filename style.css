@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(249, 234, 216);
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 340px;
+    padding-left: 10px;
+}
+.a{
+    margin-left: 800px;
+    cursor: pointer;
+}
+.b{
+    margin-left:30px;
+    cursor:pointer
+}
+.c{
+    margin-left: 30px;
+    cursor:pointer;
+}
+h1{
+    text-align: center;
+    margin-top:250px;
+}
+p{
+    text-align: center;
+}
+
