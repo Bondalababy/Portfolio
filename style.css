@@ -7,7 +7,7 @@ body{
 header{
     display:flex;
     flex-direction:row;
-    background-color:rgb(227, 222, 226);
+    background-color:rgb(246, 245, 246);
     position:fixed;
     left:0px;
     top:0px;
@@ -16,7 +16,6 @@ header{
     backdrop-filter: blur(6px) saturate(0.9);
     -webkit-background-clip: text;
 }
-
 .e:hover{
     background-color:rgb(220, 192, 158);
     font-size: 14px;
