@@ -12,6 +12,7 @@ header{
     left:0px;
     top:0px;
     width:100%;
+    /* max-width:500px; */
     height:30px;
     backdrop-filter: blur(6px) saturate(0.9);
     -webkit-background-clip: text;
